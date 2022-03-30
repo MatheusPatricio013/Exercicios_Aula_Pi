@@ -1,0 +1,27 @@
+#container{
+    background-color: #0c490c;
+    width:600px;
+    height:600px;
+    }
+    #div_1{
+    background-color: rgb(72, 255, 0);
+    width:150px;
+     height:150px;
+    }
+    p{
+    color: rgb(226, 43, 150);
+    background-color: rgb(255, 38, 0);
+    font-size: 15px;
+    font-family: arial;
+    font-style:italic;
+    }
+    #div_2{
+        width: 55%;
+        height: 55vh;
+        background-color: rgb(13, 40, 49);
+    }
+    #div_3{
+        width: 45vw;
+        height: 70%;
+        background-color: brown;
+    }
